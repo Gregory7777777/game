@@ -80,6 +80,20 @@ h1 {
 .primary {
   color: #16D9E3;
 }
+.primarybut{
+  padding: 5px 20px;
+  font-size: 25px;
+  position: absolute;
+  color: #C0C0C0;
+  margin-top: 150px;
+  border: 2px solid #C0C0C0;
+  border-radius: 30px;
+}
+
+.primarybut:hover{
+  border: 2px solid #16D9E3;
+  color: #16D9E3;
+}
 
 .board {
   display: flex;
